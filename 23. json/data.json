@@ -1,0 +1,8 @@
+{
+  "name": "Hoàng An",
+  "lists": ["Item 1", "Item 2", "Item 3"],
+  "age": 32,
+  "info": {
+    "address": "Hà Nội"
+  }
+}
